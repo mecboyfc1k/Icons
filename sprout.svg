@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="inomeado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3934011"
+     inkscape:cx="121.28596"
+     inkscape:cy="67.101998"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient16"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c9a86a;stop-opacity:1;"
+         offset="0.5"
+         id="stop16" />
+      <stop
+         style="stop-color:#f4d8a4;stop-opacity:1;"
+         offset="0.5"
+         id="stop17" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f5deb3;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#6b9f2d;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="8.1501474"
+       y1="11.722584"
+       x2="8.415123"
+       y2="10.733682"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80328754,0,0,1.0603774,2.6027337,-1.3492631)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16"
+       id="linearGradient17"
+       x1="2.4798322"
+       y1="14.453504"
+       x2="14.453507"
+       y2="2.4798284"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#a3d9d9;stroke:none;stroke-width:0.758209;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path1-1"
+       cx="8.4666672"
+       cy="8.4666672"
+       r="8.0875626"
+       inkscape:label="Fundo" />
+    <g
+       id="g3"
+       inkscape:label="Solo">
+      <path
+         style="display:inline;fill:#6b472d;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+         d="M 16.20371,10.821841 C 15.5904,9.5428085 14.33307,8.9791508 14.33307,8.9791508 c 0,0 -2.18185,-0.6042043 -3.574876,1.0573572 -1.3930268,1.661559 -2.6182191,-0.03357 -2.6182191,-0.03357 0,0 -1.1580582,-1.6951281 -3.7259264,-1.6447781 -2.5678686,0.050351 -3.74611487,2.2505681 -3.74611487,2.2505681 0,0 1.56309507,5.945502 7.79873357,5.945502 6.2356388,0 7.7370428,-5.732389 7.7370428,-5.732389 z"
+         id="path2"
+         sodipodi:nodetypes="cscscc" />
+      <path
+         style="display:inline;fill:#5a3c26;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.1613156,11.867001 c 0,0 2.3752573,-2.1829627 5.1997682,-0.07051 2.8245112,2.112449 3.6789852,0.118677 3.6789852,0.118677 0,0 1.708948,-2.064979 3.702721,-0.166148 0,0 1.100005,1.120608 2.145274,-0.06869 0,0 -1.708035,4.8739 -7.4213968,4.8739 -5.7133622,0 -7.3053516,-4.687229 -7.3053516,-4.687229 z"
+         id="path3" />
+    </g>
+    <g
+       id="g1"
+       inkscape:label="Planta"
+       transform="matrix(1.2024689,0,0,1.2024689,-2.0804773,-2.8074707)">
+      <g
+         id="g6"
+         inkscape:label="Cáule-Raíz">
+        <path
+           style="display:inline;fill:url(#linearGradient5);stroke:none;stroke-width:0.73257;stroke-dasharray:none;stroke-opacity:1"
+           d="M 9.1414739,9.257626 9.1145099,11.233071 8.8448712,12.905969 9.2493295,15.272944 9.2358485,13.155125 9.5863789,11.17968 9.5196329,9.7408509 9.6672705,5.8406419 H 9.2897762 Z"
+           id="path4" />
+        <path
+           style="fill:#f5deb3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+           d="m 9.5041528,11.643072 1.1678712,1.058327 1.479196,0.440045 -1.496998,-0.345103 0.569649,0.943482 -0.70316,-1.014688 -1.0395917,-0.952255 z"
+           id="path7" />
+        <path
+           style="fill:#f5deb3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+           d="m 8.9135168,12.480076 -0.8197495,0.372637 -0.7921686,-0.0356 0.7892016,0.08604 -0.4450384,0.243288 0.5666824,-0.267023 0.6924418,-0.345793 z"
+           id="path8" />
+        <path
+           style="fill:#f5deb3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+           d="m 9.2387271,13.607376 c 0.4872844,0.813807 0.4872844,0.813807 0.4872844,0.813807 L 9.2393123,13.699307 Z"
+           id="path9" />
+        <path
+           style="fill:#f5deb3;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+           d="M 8.9029123,13.245639 8.2490674,14.102297 8.916523,13.325292 Z"
+           id="path10" />
+        <path
+           style="display:inline;fill:#537c23;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+           d="m 9.2523989,6.7018315 0.015978,-0.3822774 c 0,0 0.2864477,-0.053623 0.3872539,-0.1714564"
+           id="path13" />
+      </g>
+      <g
+         id="g13"
+         inkscape:label="Cotilédones">
+        <path
+           id="path11-8"
+           style="fill:#78b333;fill-opacity:1;stroke-width:0.79375"
+           d="M 9.9532052,5.5830266 C 9.9229218,5.8780926 9.6707459,6.1406507 9.2792759,6.2958758 8.887806,6.4511009 8.6057027,6.0688019 8.0386227,6.0106014 7.4715429,5.952401 7.0071709,6.2146881 6.6553918,5.9831821 6.3036128,5.751676 6.2056827,5.4359118 6.2359659,5.1408459 6.2965322,4.5507141 7.0283237,4.1573665 8.1624833,4.2737674 9.2966432,4.3901683 10.013771,4.9928948 9.9532052,5.5830266 Z"
+           sodipodi:nodetypes="sssssss"
+           inkscape:label="Cotilédone trás" />
+        <g
+           id="g12"
+           inkscape:label="Luzes trás">
+          <path
+             id="path12"
+             style="fill:#89bf3b;stroke-width:0.1"
+             d="M 9.6403023,5.0567226 C 9.6109699,5.1811208 8.9871642,4.8453653 8.4763786,4.7268812 7.965593,4.6083971 7.2375568,4.5607909 7.2621008,4.4353639 7.2969147,4.2574552 8.042961,4.3178474 8.5537468,4.4363316 9.0645326,4.5548157 9.6775747,4.8986518 9.6403023,5.0567226 Z"
+             sodipodi:nodetypes="sssss" />
+        </g>
+        <g
+           id="g7"
+           inkscape:label="Sombras trás">
+          <path
+             style="fill:#557f24;fill-opacity:1;stroke-width:0.1"
+             d="m 7.4755144,4.9166496 c 0,0 -1.1224689,0.1405634 -1.1896558,0.6293181 0,0 0.081364,0.211806 0.1705264,0.2653032 0.089162,0.053497 1.0191294,-0.8946213 1.0191294,-0.8946213 z"
+             id="path6" />
+        </g>
+        <path
+           id="path11"
+           style="display:inline;fill:#6b9f2d;stroke-width:0.79375"
+           d="m 7.6746487,8.2190771 c 0,0.2966159 -0.2240521,0.5835481 -0.5976287,0.7779294 C 6.7034435,9.1913878 6.3837832,8.839888 5.8137245,8.839888 c -0.5700586,0 -1.0052258,0.3083268 -1.3788024,0.1139456 -0.3735766,-0.1943813 -0.503233,-0.4984973 -0.503233,-0.7951131 0,-0.5932317 0.6878085,-1.0592365 1.8279258,-1.0592365 1.1401173,0 1.9150338,0.5263614 1.9150338,1.1195931 z"
+           sodipodi:nodetypes="sssssss"
+           inkscape:label="Cotilédone frente"
+           transform="rotate(-19.325095)" />
+        <path
+           style="display:inline;fill:#537c23;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+           d="M 9.0905133,6.3282307 C 8.6081378,5.9845178 7.9403131,6.0799657 7.6101587,6.3729517 6.9008929,7.0023691 6.4073851,5.9046078 6.4073851,5.9046078 c 0,0 -0.2180878,0.5479537 0.3692157,0.9517039 0,0 0.1651671,0.094047 0.3491324,0.124513 0.1875301,0.031057 0.3891217,-0.018086 0.6589787,-0.220208 C 7.9222008,6.6576382 8.0564527,6.5835699 8.1940066,6.517574 8.2627836,6.484576 8.4212623,6.3995238 8.6071324,6.3648233 8.7930026,6.3301228 9.0062643,6.345774 9.0905133,6.3282307 Z"
+           id="path14"
+           sodipodi:nodetypes="csccssssc"
+           inkscape:path-effect="#path-effect14"
+           inkscape:original-d="M 9.0905133,6.3282307 C 8.6081378,5.9845178 7.9403131,6.0799657 7.6101587,6.3729517 6.9008929,7.0023691 6.4073851,5.9046078 6.4073851,5.9046078 c 0,0 -0.2180878,0.5479537 0.3692157,0.9517039 0,0 0.1651671,0.094047 0.3491324,0.124513 0.1875301,0.031057 0.3891217,-0.018086 0.6589787,-0.220208 C 7.9222008,6.6576382 8.0564527,6.5835699 8.1940066,6.517574 8.2627836,6.484576 8.4212623,6.3995238 8.6071324,6.3648233 8.7930026,6.3301228 9.0062643,6.345774 9.0905133,6.3282307 Z" />
+        <g
+           id="g2"
+           inkscape:label="Sombras Frente"
+           style="display:inline" />
+        <g
+           id="g5"
+           inkscape:label="Luzes frente"
+           style="display:inline">
+          <path
+             id="path5"
+             style="fill:#89bf3b;stroke-width:0.180004"
+             d="M 9.8811064,5.3429048 C 9.8441446,5.4426423 9.5874863,5.1013063 9.1885328,4.9534575 8.7895811,4.8056091 8.2445282,4.8725206 8.2814908,4.7727814 8.3184523,4.6730437 8.9133433,4.6147296 9.3122967,4.7625784 9.7112501,4.9104274 9.9180689,5.2431665 9.8811064,5.3429048 Z"
+             sodipodi:nodetypes="sssss" />
+        </g>
+      </g>
+      <g
+         id="g16"
+         inkscape:label="Folhas"
+         transform="matrix(0.83162235,0,0,0.83162235,1.7301714,2.3347554)">
+        <path
+           style="fill:#89bf3b;fill-opacity:1;stroke-width:0.1"
+           d="m 6.4129972,3.3740828 c 0,0 -1.7489934,-0.2825486 -2.6450043,0.6787348 0,0 1.7058193,-0.3115747 2.0278113,-0.1023828 z"
+           id="path15" />
+        <path
+           style="fill:#5c8f26;fill-opacity:1;stroke-width:0.1"
+           d="m 5.7958042,3.9504347 c 0,0 -0.3199529,-0.2138855 -1.5180453,0.021389 0,0 1.0612724,-0.054341 1.405366,0.2085781"
+           id="path16" />
+      </g>
+    </g>
+    <circle
+       style="fill:none;stroke:url(#linearGradient17);stroke-width:0.758209;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="8.4666672"
+       cy="8.4666672"
+       r="8.0875626"
+       inkscape:label="Moldura" />
+  </g>
+</svg>
